@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1429523645 source:c:\users\student\desktop\bst\main.cpp
+	"BST.h"
+
+1429523597 c:\users\student\desktop\bst\bst.h
+	"Node.h"
+
+1429519272 c:\users\student\desktop\bst\node.h
+	<iostream>
+
+1429525284 source:f:\varsity files\semester 3\final\data structure\lab\bst\main.cpp
+	"BST.h"
+
+1429526174 f:\varsity files\semester 3\final\data structure\lab\bst\bst.h
+	"Node.h"
+
+1429519274 f:\varsity files\semester 3\final\data structure\lab\bst\node.h
+	<iostream>
+
+1429525284 source:g:\varsity files\semester 3\final\data structure\lab\bst\main.cpp
+	"BST.h"
+
+1429526174 g:\varsity files\semester 3\final\data structure\lab\bst\bst.h
+	"Node.h"
+
+1429519274 g:\varsity files\semester 3\final\data structure\lab\bst\node.h
+	<iostream>
+

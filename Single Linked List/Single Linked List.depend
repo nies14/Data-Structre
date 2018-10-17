@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1426933400 source:d:\lab 1\single linked list\main.cpp
+	"SLN.h"
+
+1426933870 d:\lab 1\single linked list\sln.h
+	<iostream>
+	"Node.h"
+
+1426928120 d:\lab 1\single linked list\node.h
+
